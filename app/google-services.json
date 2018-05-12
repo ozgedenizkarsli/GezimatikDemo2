@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "534285273934",
+    "firebase_url": "https://gezmatik-1.firebaseio.com",
+    "project_id": "gezmatik-1",
+    "storage_bucket": "gezmatik-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534285273934:android:eb895ecdd1f5548b",
+        "android_client_info": {
+          "package_name": "ozgedenizkarsli.com.gezimatikdemo2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534285273934-vdd4k6aq1lqkclhdequc4jud9lgqfjse.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ozgedenizkarsli.com.gezimatikdemo2",
+            "certificate_hash": "cc554096bd20410bdef1fee50c956b9ace5c32f4"
+          }
+        },
+        {
+          "client_id": "534285273934-5k842hjk8s83rse97ojlkuav909k2t5k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxcXv23hmAGOZr_O1lW6RFreoVHETiGs8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534285273934-5k842hjk8s83rse97ojlkuav909k2t5k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
